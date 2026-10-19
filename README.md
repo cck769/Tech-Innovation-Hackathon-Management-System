@@ -27,5 +27,5 @@ The repository includes SQL queries designed to assist event organizers with log
 
 ## Technologies Used
 - **Database Engine:** Oracle Database / Oracle APEX
-- **Language:** SQL (DDL, DML, DQL)
+- **Language:** SQL
 - **Design:** Entity-Relationship (ER) Modeling
