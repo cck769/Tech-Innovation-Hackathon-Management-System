@@ -29,3 +29,7 @@ The repository includes SQL queries designed to assist event organizers with log
 - **Database Engine:** Oracle Database / Oracle APEX
 - **Language:** SQL
 - **Design:** Entity-Relationship (ER) Modeling
+
+## How to Run
+1. Execute `Hackathon_DB_Setup.sql` in your SQL environment to build the schema and populate the mock data.
+2. Run the individual queries from `Hackathon_Queries.sql` to view the event analytics.
